@@ -1,4 +1,4 @@
-# Senac
+# Senac :person:
 
 Esse é um dos dois projetos Web feito no meu curso Técnico em Informática.
 
